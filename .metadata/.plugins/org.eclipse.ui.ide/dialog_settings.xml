@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/Yogurt/Documents/workspace/编程之美"/>
+			<item value="/Users/Yogurt/Documents/workspace/计蒜之道"/>
+			<item value="/Users/Yogurt/Documents/workspace/泛型"/>
+			<item value="/Users/Yogurt/Documents/workspace/头条牛客实习"/>
+			<item value="/Users/Yogurt/Documents/workspace/啊哈算法程序"/>
+			<item value="/Users/Yogurt/Documents/workspace/华为武汉长沙地区实习招聘"/>
+			<item value="/Users/Yogurt/Documents/workspace/中兴题目"/>
+			<item value="/Users/Yogurt/Documents/workspace/一站通Offer"/>
+			<item value="/Users/Yogurt/Documents/workspace/NewCoder"/>
+			<item value="/Users/Yogurt/Documents/workspace/Java面试宝典"/>
+			<item value="/Users/Yogurt/Documents/workspace/Wrong"/>
+			<item value="/Users/Yogurt/Documents/workspace/Swing"/>
+			<item value="/Users/Yogurt/Documents/workspace/SortProject"/>
+			<item value="/Users/Yogurt/Documents/workspace/ListDemo"/>
+			<item value="/Users/Yogurt/Documents/workspace/LinkedLisrt"/>
+			<item value="/Users/Yogurt/Documents/workspace/IODemo"/>
+			<item value="/Users/Yogurt/Documents/workspace/HWOJ"/>
+			<item value="/Users/Yogurt/Documents/workspace/FileDemo"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
