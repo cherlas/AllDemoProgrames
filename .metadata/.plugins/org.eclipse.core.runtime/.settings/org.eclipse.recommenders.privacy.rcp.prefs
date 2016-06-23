@@ -1,0 +1,4 @@
+approval/com.codetrails.connect.hippie.rcp.datums.completionEvents/com.codetrails.connect.hippie.rcp.principals.codetrails=+
+approval/org.eclipse.recommenders.privacy.rcp.datums.anonymousId/com.codetrails.connect.hippie.rcp.principals.codetrails=+
+approval/org.eclipse.recommenders.privacy.rcp.datums.email/com.codetrails.connect.hippie.rcp.principals.codetrails=+
+eclipse.preferences.version=1

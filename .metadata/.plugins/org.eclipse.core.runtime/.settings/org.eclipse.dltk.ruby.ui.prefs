@@ -1,6 +1,6 @@
 DLTK_comment_task_tag=128,0,128
 DLTK_comment_task_tag_bold=false
-DLTK_comment_task_tag_italic=true
+DLTK_comment_task_tag_italic=false
 DLTK_comment_task_tag_strikethrough=false
 DLTK_comment_task_tag_underline=true
 DLTK_default=255,255,255

@@ -1,0 +1,10 @@
+package test;
+
+public class 幻兽交易 {
+
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+
+    }
+
+}

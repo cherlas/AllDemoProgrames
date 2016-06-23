@@ -1,0 +1,25 @@
+package test;
+
+import java.util.Scanner;
+
+public class 幻兽交易 {
+    private static Scanner  sc;
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+        sc=new Scanner(System.in);
+        while(sc.hasNextInt()) {
+            int A=sc.nextInt();
+            int B=sc.nextInt();
+            if(A>=B) System.out.println(0);
+            else {
+                int count=0;
+                for(int i=A/19;i<=A/9;i++) 
+                    if(A+i<=B&&(A+i)%5==0)
+                        count++;
+                System.out.println(count);
+            }
+            
+        }
+    }
+
+}

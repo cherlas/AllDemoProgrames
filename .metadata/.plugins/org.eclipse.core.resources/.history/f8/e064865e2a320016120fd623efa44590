@@ -1,0 +1,24 @@
+package test;
+
+import java.util.Scanner;
+
+public class 禁忌雷炎 {
+    private static Scanner sc;
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+        sc=new Scanner(System.in);
+        while(sc.hasNextInt()) {
+            int s=sc.nextInt();
+            int r=(int)Math.sqrt(s);
+            System.out.println(r);
+            int count=0;
+                for(int x=r*(-1);x<=r;x++) 
+                    for(int y=r*(-1);y<=r;y++) 
+                        if(x*x+y*y==r*r)
+                            count++;
+                    
+              System.out.println(count);  
+        }
+    }
+
+}

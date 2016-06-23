@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Program6_3Bellman_Ford解决负权边.java&apos; to &apos;啊哈算法程序/src/number_6&apos;&#x0A;- Original project: &apos;啊哈算法程序&apos;&#x0A;- Destination element: &apos;啊哈算法程序/src/number_6&apos;&#x0A;- Original element: &apos;test.Program6_3Bellman_Ford解决负权边.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;number_6" element1="/src&lt;test{Program6_3Bellman_Ford解决负权边.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1465722311552" units="1" version="1.0"/>
+</session>

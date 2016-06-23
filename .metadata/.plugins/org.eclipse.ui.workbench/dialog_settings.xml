@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="WorkbenchPreferenceDialogSettings">
-		<item value="164" key="DIALOG_X_ORIGIN"/>
-		<item value="518" key="DIALOG_Y_ORIGIN"/>
+		<item value="-522" key="DIALOG_X_ORIGIN"/>
+		<item value="470" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.ui.preferences.keysPreferencePage">
 	</section>
@@ -19,8 +19,9 @@
 		</list>
 	</section>
 	<section name="PreferencesImportWizard">
-		<item value="/Users/Yogurt/Downloads/Retta-2.jar" key=""/>
+		<item value="/Users/Yogurt/Downloads/Eclipse preferences.epf" key=""/>
 		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/Yogurt/Downloads/Eclipse preferences.epf"/>
 			<item value="/Users/Yogurt/Downloads/Retta-2.jar"/>
 			<item value="/Users/Yogurt/Downloads/theme-1004.epf"/>
 			<item value="/Users/Yogurt/Downloads/theme-1004.xml"/>
@@ -32,8 +33,16 @@
 			<item value="org.eclipse.wb"/>
 		</list>
 	</section>
+	<section name="InstallationDialogSettings">
+		<item value="702" key="DIALOG_WIDTH"/>
+		<item value="1|.SF NS Text|11.0|0|COCOA|1|.SFNSText-Regular" key="DIALOG_FONT_NAME"/>
+		<item value="652" key="DIALOG_HEIGHT"/>
+		<item value="84" key="DIALOG_X_ORIGIN"/>
+		<item value="-107" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="ImportExportAction">
-		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.export.Preferences" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.import.Preferences" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
 			<item value="org.eclipse.ui.Basic"/>
 			<item value="org.eclipse.buildship.ui.importwizards"/>
@@ -44,8 +53,19 @@
 			<item value="org.eclipse.team.ui.importWizards"/>
 			<item value="org.eclipse.wst.XMLCategory"/>
 		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
 	</section>
 	<section name="ZipFileImportWizard">
+	</section>
+	<section name="PreferencesExportWizard">
+		<item value="/Volumes/Documents/Eclipse Preferences.epf" key=""/>
+		<item value="false" key="WizardPreferencesExportPage1.STORE_OVERWRITE_EXISTING_FILES_ID"/>
+		<item value="true" key="WizardPreferencesExportPage1.EXPORT_ALL_PREFERENCES_ID"/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Volumes/Documents/Eclipse Preferences.epf"/>
+		</list>
 	</section>
 	<section name="FileSystemImportWizard">
 	</section>

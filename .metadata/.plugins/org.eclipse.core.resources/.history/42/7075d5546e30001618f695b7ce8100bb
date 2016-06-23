@@ -1,0 +1,13 @@
+package test;
+
+import java.util.Scanner;
+
+public class AAddB {
+	private static Scanner sc;
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		sc=new Scanner(System.in);
+		ipnt a=sc.nextInt();
+	}
+
+}
