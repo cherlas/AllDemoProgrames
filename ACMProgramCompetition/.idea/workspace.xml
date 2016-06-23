@@ -36,8 +36,8 @@
       <file leaf-file-name="Ants1_6_2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Demoes/Ants1_6_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="408">
+              <caret line="24" column="74" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -91,8 +91,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="473" />
-    <option name="y" value="23" />
+    <option name="x" value="1165" />
+    <option name="y" value="231" />
     <option name="width" value="1400" />
     <option name="height" value="1175" />
   </component>
@@ -771,15 +771,15 @@
       <option name="presentableId" value="Default" />
       <updated>1466294071313</updated>
       <workItem from="1466294073450" duration="3257000" />
-      <workItem from="1466647200188" duration="797000" />
+      <workItem from="1466647200188" duration="1406000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4054000" />
+    <option name="totallyTimeSpent" value="4663000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="473" y="23" width="1400" height="1175" extended-state="0" />
+    <frame x="1165" y="231" width="1400" height="1175" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -871,8 +871,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Demoes/Ants1_6_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="408">
+          <caret line="24" column="74" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
           <folding />
         </state>
       </provider>
