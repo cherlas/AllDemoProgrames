@@ -4,6 +4,13 @@ import java.util.Scanner;
 
 /**
  * Created by Yogurt on 6/19/16.
+ * in:
+ 10
+ 3
+ 2 6 7
+ out:
+ max=8
+ min=4
  */
 public class Ants1_6_2 {
     public static void main(String[] args){
