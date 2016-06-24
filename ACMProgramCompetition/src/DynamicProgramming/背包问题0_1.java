@@ -12,6 +12,7 @@ import java.util.Scanner;
  2 2
  5
  out:
+ 7
  */
 public class 背包问题0_1 {
 
