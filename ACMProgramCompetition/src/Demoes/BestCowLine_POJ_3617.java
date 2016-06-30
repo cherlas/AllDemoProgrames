@@ -11,7 +11,8 @@ public class BestCowLine_POJ_3617 {
         int N=sc.nextInt();
         sc.nextLine();
         StringBuilder str=new StringBuilder();
-        for(int i=0;i<N;i++) str.append(sc.nextLine());
+        for(int i=0;i<N;i++)
+            str.append(sc.nextLine());
         StringBuilder res=new StringBuilder();
         int a=0,b=N-1;
         while (a<=b){
