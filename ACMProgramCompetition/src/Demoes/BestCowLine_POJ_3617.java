@@ -8,9 +8,12 @@ import java.util.Scanner;
 public class BestCowLine_POJ_3617 {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
-        String str=sc.nextLine();
+        int N=sc.nextInt();
+        sc.nextLine();
+        StringBuilder str=new StringBuilder();
+        for(int i=0;i<N;i++) str.append(sc.nextLine());
         StringBuilder res=new StringBuilder();
-        int a=0,b=str.length()-1;
+        int a=0,b=N-1;
         while (a<=b){
             boolean left=false;
             for (int i=0;a+i<b;i++){
@@ -25,6 +28,11 @@ public class BestCowLine_POJ_3617 {
             if (left) res.append(str.charAt(a++));
             else res.append(str.charAt(b--));
         }
-        System.out.println(res);
+        for(int i=0;i<res.length();i++){
+            if(i>0&&i%80==0)
+                System.out.println();
+            System.out.print(res.charAt(i));
+        }
+        System.out.println();
     }
 }
