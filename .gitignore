@@ -13,3 +13,6 @@ hs_err_pid*
 # Android Project
 /AndroidStudioProjects/*
 /ProjectDevelopment/*
+*.xml
+
+ACMProgramCompetition/.idea/workspace.xml
