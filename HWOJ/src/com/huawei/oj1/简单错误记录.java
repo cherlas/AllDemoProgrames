@@ -1,16 +1,16 @@
-package test;
+package com.huawei.oj1;
 
 import java.util.ArrayList;  
 import java.util.List;  
-import java.util.Scanner;  
-class Error{  
-    String errorFile;  
-    String address;  
-    int num;  
-}  
+import java.util.Scanner;
 public class 简单错误记录 {  
     private static Scanner sc;  
-    private static List<Error> list=new ArrayList<>();  
+    private static List<Error> list=new ArrayList<>();
+    private static class Error{
+        String errorFile;
+        String address;
+        int num;
+    }
     public static void main(String[] args) {  
         String input;  
         sc=new Scanner(System.in);  
