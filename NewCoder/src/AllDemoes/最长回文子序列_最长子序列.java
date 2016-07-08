@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by Yogurt on 16/7/7.
  */
-public class 最长回文子序列 {
+public class 最长回文子序列_最长子序列 {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         String A=sc.next();
