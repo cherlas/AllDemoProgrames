@@ -1,4 +1,4 @@
-package AllDemoes;
+package AllDemoes.Important;
 
 import java.util.Scanner;
 
