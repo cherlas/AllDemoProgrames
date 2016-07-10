@@ -11,6 +11,7 @@ public class 大数整除求余数 {
         Scanner sc=new Scanner(System.in);
         BigDecimal a=new BigDecimal(sc.nextLine());
         BigDecimal b=new BigDecimal(sc.nextLine());
+        if (b.toString().equals("0")) { System.out.println("error"); return;}
         BigDecimal[] res=a.divideAndRemainder(b);
         System.out.println(res[1].toString());
     }
